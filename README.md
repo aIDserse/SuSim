@@ -7,3 +7,5 @@ At the moment it has only integers
 +, -, x, :, and sqrt<br>
 More will be added in the future<br>
 You can use my code for inspiration, and contact me if you have Simula tips and Tricks ;)
+# License
+The code is under WTFPL license. It's nearly like GPL, but better:))
